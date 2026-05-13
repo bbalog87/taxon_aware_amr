@@ -1,0 +1,153 @@
+goat_taxon_id	genome_id	species_name	category	ecological_role	endemic_status	iucn_status	genome_assembly_level
+875661	none	Vachellia xanthophloea_syn_Acacia_xanthoph	Wild-plant	Keystone	Native	LC	none
+70070	none	Kigelia africana	Wild-plant	Keystone	Native	LC	none
+1704625	none	Croton megalocarpus	Wild-plant	Pioneer	Native	LC	none
+379279	none	Prunus africana	Wild-plant	Provider	Native	VU	none
+1593107	none	Aloe secundiflora	Wild-plant	Facilitator	Native	LC	none
+62753	none	Juniperus procera	Wild-plant	Keystone	Native	LC	none
+132963	none	Warburgia salutaris	Wild-plant	Provider	Native	VU	none
+549619	GCA_035236585.1	Warburgia ugandensis	Wild-plant	Provider	Native	CR	chromosome_level
+138046	none	Vachellia tortilis_Acacia	Wild-plant	Keystone	Native	LC	none
+205067	none	Vachellia drepanolobium	Wild-plant	Keystone	Native	LC	none
+69109	GCA_029448705.1	Adansonia digitata	Wild-plant	Keystone	Native	LC	scaffold_level
+2613438	none	Ipomoea longituba	Wild-plant	Geophyte	Native	NYC	none
+691134	none	Ipomoea hildebrandtii	Wild-plant	Facilitator	Native	NYC	none
+2613428	none	Ipomoea lapidosa	Wild-plant	Facilitator	Native	NYC	none
+2511968	none	Ipomoea oenotherae	Wild-plant	Facilitator	Native	NYC	none
+1729743	none	Ipomoea marmorata	Wild-plant	Facilitator	Native	NYC	none
+2613460	none	Ipomoea paolii	Wild-plant	Facilitator	Native	NYC	none
+9785	GCA_030014295.1	Loxodonta africana	Wildlife	Keystone	Native	EN	chromosome_level
+439328	GCA_013496395.1	Giraffa camelopardalis ssp. tippelskirchi	Wildlife	Keystone	Native	VU	chromosome_level
+9945	GCA_006416875.1	Taurotragus oryx	Wildlife	Grazer	Native	LC	scaffold_level
+69297	GCA_040438115.1	Tragelaphus eurycerus_isaaci	Wildlife	Browser	Endemic	NT	chromosome_level
+89248	GCA_021613505.1	Equus quagga	Wildlife	Grazer	Native	NT	chromosome_level
+9792	none	Equus grevyi	Wildlife	Grazer	Native	EN	none
+9689	GCA_018350215.1	Panthera leo	Wildlife	Predator	Native	VU	chromosome_level
+1081385	GCA_015501595.1	Diceros bicornis	Wildlife	Keystone	Native	CR	scaffold_level
+9833	GCA_030028045.1	Hippopotamus amphibius	Wildlife	Ecosystem-engineer	Native	VU	chromosome_level
+9555	GCA_008728515.1	Papio anubis	Wildlife	Disperser	Native	LC	chromosome_level
+9927	GCA_006408615.1	Connochaetes taurinus	Wildlife	Grazer	Native	LC	scaffold_level
+32536	GCA_027475565.2	Acinonyx jubatus	Wildlife	Predator	Native	VU	chromosome_level
+9970	GCA_902825105.1	Syncerus caffer	Wildlife	Grazer	Native	NT	scaffold_level
+9556	GCA_963574715.1	Papio cynocephalus	Wildlife	Disperser	Native	LC	scaffold_level
+591934	none	Procolobus rufomitratus	Wildlife	Disperser	Endemic	CR	none
+9532	none	Cercocebus galeritus	Wildlife	Disperser	Native	CR	none
+9691	GCA_024362865.1	Panthera pardus pardus	Wildlife	Predator	Native	VU	scaffold_level
+9915	GCA_030267375.1	Bos indicus_maasai_zebu	Livestock	Grazer	Native	LICRC	chromosome_level
+9913	GCA_043882115.1	Bos taurus_red_maasai_type	Livestock	Grazer	Native	LICRC	chromosome_level
+9915_1	none	Bos indicus_sahiwal_breed	Livestock	Grazer	Native	LICRC	none
+9915_2	none	Bos indicus_borana_type	Livestock	Grazer	Native	LICRC	none
+9940	none	Ovis aries_maasai_zebu_type	Livestock	Grazer	Native	URS	none
+9940_1	none	Ovis aries_red_maasai_sheep	Livestock	Grazer	Native	URS	none
+9940_2	none	Ovis aries_blackhead_somali_type	Livestock	Grazer	Native	URS	none
+9925	none	Capra_hircus_borana_type	Livestock	Browser	Native	URS	none
+9925_1	none	Capra_hircus_small_east_african_type	Livestock	Browser	Native	LICRC	none
+9925_2	none	Capra_hircus_alpine_breed	Livestock	Browser	Introduced	URS	none
+9838	none	Camelus_dromedarius_rendille_somali_type	Livestock	Browser	Native	LICRC	none
+9838_1	none	Camelus_dromedarius_gabbra_type	Livestock	Browser	Native	URS	none
+73336	none	Equus_asinus_somalisensis_somali_ecotype	Livestock	Grazer	Introduced	URS	none
+582580	none	Equus_asinus_africanus_maasai_ecotype	Livestock	Grazer	Introduced	URS	none
+1608625	none	Struthio camelus_esp_S_c_massaicus	Wild-bird	Grazer	Native	LC	none
+52649	GCA_034782675.1	Haliaeetus vocifer_syn_Icthyophaga_vocifer	Wild-bird	Predator	Native	LC	scaffold_level
+245042	GCA_015883425.2	Lamprotornis superbus	Wild-bird	Disperser	Native	LC	chromosome_level
+56292	none	Coracias caudatus	Wild-bird	Predator	Native	LC	none
+925459	GCA_011004875.1	Balearica regulorum	Wild-bird	Predator	Native	EN	chromosome_level
+56258	GCA_034782735.1	Sagittarius serpentarius	Wild-bird	Predator	Native	EN	scaffold_level
+103954	GCA_013396815.1	Corythaeola cristata	Wild-bird	Disperser	Native	LC	scaffold_level
+30399	GCA_037953605.1	Necrosyrtes monachus	Wild-bird	Scavenger	Native	CR	scaffold_level
+8975	none	Trigonoceps occipitalis	Wild-bird	Scavenger	Native	CR	none
+8967	GCA_027575145.1	Gyps rueppelli	Wild-bird	Scavenger	Native	CR	scaffold_level
+43490	GCA_041146555.1	Gyps africanus	Wild-bird	Scavenger	Native	CR	contig_level
+252781	GCA_034782595.1	Aquila rapax	Wild-bird	Predator	Native	VU	scaffold_level
+252794	none	Polemaetus bellicosus	Wild-bird	Predator	Native	EN	none
+85095	GCA_024611155.1	Corythornis cristatus	Wild-bird	Predator	Native	LC	scaffold_level
+543865	none	Otus ireneae	Wild-bird	Predator	Native	EN	none
+8992	none	Acryllium vulturinum	Wild-bird	Forager	Native	LC	none
+3150064	GCA_041442495.1	Leptoptilos crumenifer	Wild-bird	Scavenger	Native	LC	chromosome_level
+704175	none	Phoeniconaias minor	Wild-bird	Filter-feeder	Native	NT	none
+435638	none	Phoenicopterus roseus	Wild-bird	Filter-feeder	Native	LC	none
+8996	GCA_002078875.2	Numida meleagris	Wild-bird	Filter-feeder	Introduced	LC	chromosome_level
+9031_1	none	Gallus gallus domesticus_naked-neck_variety	Domestic-bird	Consumer	Native	URS	none
+9031_2	none	Gallus gallus domesticus_Indigenous_variety	Domestic-bird	Consumer	Native	URS	none
+9031	GCA_024206055.2	Gallus_gallus_domesticus	Domestic-bird	Consumer	Native	URS	chromosome_level
+447869	none	Orthetrum julia	Insect	Predator	Native	LC	none
+3092881	none	Trinervitermes spp	Insect	Decomposer	Native	NE	none
+2866636	none	Macrotermes spp	Insect	Decomposer	Native	NE	none
+627754	none	Miomantis paykullii	Insect	Predator	Native	NE	none
+1634087	none	Nomadacris septemfasciata	Insect	Herbivour	Native	LC	none
+2867860	none	Kheper aegyptiorum	Insect	Decomposer	Native	LC	none
+3479603	none	Cheilomenes spp	Insect	Predator	Native	NE	none
+212527	none	Apis mellifera scutellata	Insect	Pollinator	Native	DD	none
+1514690	none	Termitomyces umkowaani	Fungus	Decomposer	Native	NE	none
+5334	GCA_014900015.1	Schizophyllum commune	Fungus	Decomposer	Native	NE	contig_level
+5315	GCA_012655175.1	Ganoderma lucidum	Fungus	Decomposer	Native	NE	contig_level
+29895	none	Pseudohydnum gelatinosum	Fungus	Decomposer	Introduced	NE	none
+5341	GCA_000300575.2	Agaricus bisporus	Fungus	Decomposer	Introduced	NE	chromosome_level
+5322	GCA_947034855.1	Pleurotus ostreatus	Fungus	Decomposer	Native	NE	chromosome_level
+158195	none	Termitomyces microcarpus	Fungus	Decomposer	Native	NE	none
+1921602	none	Glomus spp.	Fungus	Mutualist	Native	NE	none
+29893	GCA_003316125.1	Auricularia polytricha	Fungus	Decomposer	Native	NE	scaffold_level
+none_1	none	Clavipitaceous Fungi	Fungus	Mutualist	Native	NE	none
+47278	GCA_026184415.1	Trichothecium roseum	Fungus	Decomposer	Native	NE	complete_genome_level
+101491	GCA_977009205.1	Trionyx triunguis	Reptile	Predator	Native	VU	chromosome_level
+8469	GCA_015237465.2	Chelonia mydas	Reptile	Grazer	Native	LC	chromosome_level
+27787	GCA_965152285.1	Eretmochelys imbricata	Reptile	Keystone	Native	CR	chromosome_level
+27788	GCA_965140295.1	Lepidochelys olivacea	Reptile	Keystone	Native	VU	chromosome_level
+8467	GCA_965140275.1	Caretta caretta	Reptile	Predator	Native	VU	chromosome_level
+27794	GCA_009764565.4	Dermochelys coriacea	Reptile	Predator	Native	VU	chromosome_level
+8501	none	Crocodylus niloticus	Reptile	Predator	Native	LC	none
+8692	GCA_042902775.1	Bitis arietans	Reptile	Predator	Native	LC	scaffold_level
+8694	none	Bitis gabonica	Reptile	Predator	Introduced	VU	none
+8700	none	Echis pyramidum aliaborri	Reptile	Predator	Native	LC	none
+8624	none	Dendroaspis polylepis	Reptile	Predator	Native	LC	none
+8618	none	Dendroaspis angusticeps	Reptile	Predator	Native	LC	none
+656322	none	Callulina dawida	Amphibians	Predator	Endemic	CR	none
+1286390	none	Tomopterna gallmanni	Amphibians	Predator	Endemic	LC	none
+643490	none	Hyperolius montanus	Amphibians	Predator	Endemic	LC	none
+8128	GCA_043643375.1	Oreochromis niloticus	Fish	Herbivour	Native	LC	chromosome_level
+1392_ENA	GCA_964341285.1	Bacillus_anthracis	Non_eukaryotic_microbe	Pathogen	Native	NE	complete_genome_level
+235_ENA	GCA_009733175.1	Brucella_abortus	Non_eukaryotic_microbe	Pathogen	Native	NE	contig_level
+173_ENA	GCA_001542585.1	Leptospira_interrogans	Non_eukaryotic_microbe	Pathogen	Native	NE	contig_level
+11588_ENA	GCA_000847345.1	RVF_virus	Non_eukaryotic_microbe	Pathogen	Native	NE	complete_genome_level
+11292_ENA	GCA_900327715.1	Rabies_lyssavirus	Non_eukaryotic_microbe	Pathogen	Native	NE	complete_genome_level
+2770106_ENA	GCA_032106395.1	Crimean-Congo_HF_virus	Non_eukaryotic_microbe	Pathogen	Native	NE	complete_genome_level
+31286	none	Trypanosoma_brucei_rhodesiense	Protozoa	Pathogen	Native	NE	none
+5811	GCA_019455585.1	Toxoplasma_gondii	Protozoa	Pathogen	Native	NE	chromosome_level
+632_ENA	GCA_001487065.1	Yersinia_pestis	Non_eukaryotic_microbe	Pathogen	Native	NE	contig_level
+5661	GCA_003719575.1	Leishmania_donovani	Protozoa	Pathogen	Native	NE	complete_genome_level
+1773_ENA	GCA_900654255.1	Mycobacterium_tuberculosis	Non_eukaryotic_microbe	Pathogen	Native	NE	scaffold_level
+1280_ENA	GCA_001049615.1	Staphylococcus_aureus	Non_eukaryotic_microbe	Pathogen	Native	NE	contig_level
+2697049_ENA	GCA_902810515.1	Betacoronavirus_pandemicum_SARS-CoV-19	Non_eukaryotic_microbe	Pathogen	Introduced	NE	contig_level
+2955291_ENA	GCA_964338695.2	Alphainfluenzavirus_influenzae	Non_eukaryotic_microbe	Pathogen	Introduced	NE	chromosome_level
+658858	GCA_000182665.1	Giardia_lamblia	Protozoa	Pathogen	Native	NE	contig_level
+5759	GCA_015099795.1	Entamoeba_histolytica	Protozoa	Pathogen	Native	NE	chromosome_level
+11234_ENA	GCA_000854845.1	Measles_morbillivirus	Non_eukaryotic_microbe	Pathogen	Introduced	NE	complete_genome_level
+1938392_ENA	GCA_031164285.1	Norovirus_spp	Non_eukaryotic_microbe	Pathogen	Introduced	NE	complete_genome_level
+138950_ENA	GCA_902983685.1	Enterovirus_C	Non_eukaryotic_microbe	Pathogen	Introduced	NE	complete_genome_level
+5807	GCA_035232765.1	Cryptosporidium_parvum	Protozoa	Pathogen	Native	NE	complete_genome_level
+4577	GCA_964199775.1	Zea_mays	Crop	Producer	Introduced	LC	complete_genome_level
+3885	GCA_051622355.1	Phaseolus_vulgaris	Crop	Producer	Introduced	LC	complete_genome_level
+4530	GCA_009829375.1	Oryza_sativa	Crop	Producer	Introduced	LC	chromosome_level
+4565	GCA_040256815.2	Triticum_aestivum	Crop	Producer	Introduced	DD	complete_genome_level
+4558	GCA_040267525.1	Sorghum_bicolor	Crop	Producer	Native	LC	complete_genome_level
+4511	GCA_032690845.1	Eleusine_coracana	Crop	Producer	Native	LC	chromosome_level
+3983	GCA_046055945.1	Manihot_esculenta	Crop	Producer	Introduced	DD	chromosome_level
+4120	GCA_002525835.2	Ipomoea_batatas	Crop	Producer	Introduced	DD	chromosome_level
+214697	GCA_036884655.1	Musa_acuminata_AAA-EA	Crop	Producer	Native	LC	chromosome_level
+4442	GCA_963931755.2	Camellia_sinensis	Crop	Producer	Introduced	DD	chromosome_level
+2892452	none	Hyalomma_spp	Arachnid	Vector	Native	NE	none
+7159	GCA_025407655.1	Aedes_aegypti	Insect	Vector	Native	NE	chromosome_level
+3080402	none	Glossina_spp	Insect	Vector	Native	NE	none
+163159	GCA_049309425.1	Xenopsylla_cheopis	Insect	Vector	Introduced	NE	contig_level
+37738	none	Phlebotomus duboscqi	Insect	Vector	Native	NE	none
+10112	GCA_021653895.1	Mastomys_natalensis	Mammal	Disease_host	Native	LC	contig_level
+9622	GCA_040955645.1	Lycaon_pictus	Mammal	Disease_host	Native	CR	chromosome_level
+9606	GCA_002077035.3	Homo_sapiens	Mammal	Consumer	-	NE	chromosome_level
+10117	GCA_011064425.1	Rattus_rattus	Mammal	Reservoir_host	Introduced	LC	chromosome_level
+327507	none	Xerus_erythropus	Mammal	Reservoir_host	Native	LC	none
+9615	GCA_044048985.1	Canis_lupus familiaris	Mammal	Reservoir_host	Introduced	LC	chromosome_level
+9825	GCA_017957985.1	Sus_scrofa_domesticus	Mammal	Reservoir_host	Introduced	LC	chromosome_level
+1392_ENA	GCA_964341285.1	Bacillus_anthracis_spores_in_soil	Non_eukaryotic_microbe	Reservoir_host	Endemic	NE	complete_genome_level
+77214	GCA_000465285.1	Eidolon_helvum	Mammal	Reservoir_host	Native	NT	scaffold_level
+61377	none	Felis_lybica	Mammal	Reservoir_host	Native	LC	none
+68725	none	Canis_mesomelas	Mammal	Reservoir_host	Native	LC	none
