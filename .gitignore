@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Conda / environments
+.conda/
+.env/
+.venv/
+venv/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Results and large outputs
+results/
+downloads/
+genomes/
+*.fna
+*.faa
+*.gbff
+*.gff
+*.bam
+*.sam
+*.vcf
+*.zip
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

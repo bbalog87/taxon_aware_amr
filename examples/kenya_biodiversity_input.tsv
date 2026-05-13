@@ -1,0 +1,17 @@
+taxon_id	genome_id	species_name	category	ecological_role	endemic_status	iucn_status	genome_assembly_level
+1392_ENA	GCA_964341285.1	Bacillus_anthracis	Non_eukaryotic_microbe	Pathogen	Native	NE	complete_genome_level
+1773_ENA	GCA_900654255.1	Mycobacterium_tuberculosis	Non_eukaryotic_microbe	Pathogen	Native	NE	scaffold_level
+1280_ENA	GCA_001049615.1	Staphylococcus_aureus	Non_eukaryotic_microbe	Pathogen	Native	NE	contig_level
+11588_ENA	GCA_000847345.1	RVF_virus	Non_eukaryotic_microbe	Pathogen	Native	NE	complete_genome_level
+11292_ENA	GCA_900327715.1	Rabies_lyssavirus	Non_eukaryotic_microbe	Pathogen	Native	NE	complete_genome_level
+5811	GCA_019455585.1	Toxoplasma_gondii	Protozoa	Pathogen	Native	NE	chromosome_level
+5807	GCA_035232765.1	Cryptosporidium_parvum	Protozoa	Pathogen	Native	NE	complete_genome_level
+5334	GCA_014900015.1	Schizophyllum_commune	Fungus	Decomposer	Native	NE	contig_level
+4577	GCA_964199775.1	Zea_mays	Crop	Producer	Introduced	LC	complete_genome_level
+9785	GCA_030014295.1	Loxodonta_africana	Wildlife	Keystone	Native	EN	chromosome_level
+7159	GCA_025407655.1	Aedes_aegypti	Insect	Vector	Native	NE	chromosome_level
+9532	none	Cercocebus_galeritus	Wildlife	Disperser	Native	CR	none
+70070	none	Kigelia_africana	Wild-plant	Keystone	Native	LC	none
+none_1	none	Clavipitaceous_Fungi	Fungus	Mutualist	Native	NE	none
+9999	GCA_999999999.9	Imaginary_species	Wildlife	Predator	Native	LC	none
+1081385	GCA_015501595.1	Diceros_bicornis	Wildlife	Keystone	Native	CR	scaffold_level

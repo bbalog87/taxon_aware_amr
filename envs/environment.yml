@@ -1,0 +1,39 @@
+name: taxon_aware_amr
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # --- Core Python ---
+  - python=3.11
+  - pandas>=2.0
+  - pyyaml
+  - requests
+  - biopython>=1.83          # NCBI Entrez fallback + GenBank parsing
+
+  # --- NCBI tooling (Step 2: retrieval) ---
+  - ncbi-datasets-cli>=16    # genome download + taxonomy summary
+  - taxonkit>=0.16           # offline NCBI Taxonomy lineage resolver (optional, faster)
+
+  # --- Annotation (Step 3) ---
+  # We prefer the canonical NCBI feature_table for already-annotated assemblies.
+  # Bakta is the fallback for bacteria without an official annotation.
+  - bakta>=1.9               # bacterial annotation
+  - prodigal>=2.6            # ORF prediction (used by Bakta and as fallback)
+  - seqkit>=2.5
+
+  # --- AMR (Step 4) ---
+  - ncbi-amrfinderplus>=4.0  # AMR + selected virulence/stress genes
+
+  # --- Virulence (Step 5) ---
+  - abricate>=1.0            # screens against VFDB, CARD, NCBI, etc.
+
+  # --- QC (Step 7) ---
+  - checkm-genome>=1.2       # bacterial completeness/contamination
+  - busco>=5.7               # eukaryote completeness check (optional)
+
+  # --- Dev / testing ---
+  - pytest>=7
+  - pytest-cov
+  - ruff
+  - mypy

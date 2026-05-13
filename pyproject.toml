@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taxon_aware_amr"
+version = "1.0.1"
+description = "Taxon-aware AMR / virulence detection pipeline for heterogeneous surveillance inputs."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Julien A. Nguinkal", email = "nguinkal@bnitm.de"},
+]
+keywords = ["amr", "bioinformatics", "ncbi", "surveillance", "genomics", "one-health"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+# Runtime Python deps. The bioinformatics tools (datasets, AMRFinderPlus,
+# bakta, etc.) are installed via the conda env in envs/environment.yml —
+# they are not pip packages.
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "pytest-cov", "ruff", "mypy"]
+
+[project.scripts]
+taxon_aware_amr = "taxon_aware_amr.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/your-org/taxon-aware-amr"
+Issues   = "https://github.com/your-org/taxon-aware-amr/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+taxon_aware_amr = ["py.typed"]
