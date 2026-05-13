@@ -2,7 +2,7 @@
 
 **Taxon-aware AMR and virulence detection for heterogeneous surveillance inputs.**
 
-Version 1.0.0 · Author: Julien A. Nguinkal · BNITM (Hamburg)
+Version 1.0.0 · 
 
 ---
 
