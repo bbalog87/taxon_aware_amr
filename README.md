@@ -115,10 +115,6 @@ taxon_aware_amr my_surveillance_input.tsv --auto-replace-suppressed --threads 8 
 
 Each of these is a defensible Step-8 extension; the current pipeline declines them by design rather than producing biologically meaningless output.
 
-## Authoring
-
-Julien A. Nguinkal — BNITM (One Health Disease Control Group), Hamburg.
-
 ## License
 
 MIT. See `LICENSE`.
